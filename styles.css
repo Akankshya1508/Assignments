@@ -1,0 +1,46 @@
+body {
+  background-image: linear-gradient(#efa7e6, #14e6e3);
+}
+.navigation-bar {
+  position: fixed;
+  width: 100%;
+  padding-top: 2px;
+  padding-left: 55px;
+  background-color: white;
+}
+.navigation-bar ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 15px;
+}
+.left,
+.right {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+}
+.contact-us {
+  margin-left: 77px !important;
+}
+.content {
+  padding-top: 130px;
+  padding-left: 103px;
+  font-family: cursive;
+}
+.name {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  display: block;
+}
+.greetings {
+  font-size: 50px;
+}
+.intro {
+  width: 50%;
+}
+.illustration img {
+  width: 545px;
+  height: 419px;
+  display: block;
+}
